@@ -7,8 +7,8 @@ setup(
     install_requires=[
         'requests',
     ],
-    author='Seokbong',
-    author_email='dfbgq346q@gmail.com',
+    # author='Seokbong',
+    # author_email='dfbgq346q@gmail.com',
     description='editing hanspell package (for testing)',
-    url='https://github.com/Seokhyeon-Park/hanspell.git',
+    url='https://github.com/Crystal-0109/hanspell.git',
 )
