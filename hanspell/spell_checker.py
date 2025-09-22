@@ -47,11 +47,11 @@ def check(text):
         return Checked(result=False)
 
     payload = {
-        # 마지막 수정: 20250921 19:52
-        'passportKey': '473908f1c1217ad702e6e173552ebc4c22784685',
+        # 마지막 수정: 20250923 02:39
+        'passportKey': 'adc60b62e1af3280b7696b05c0e0e919a0a1d5d4',
         'where': 'nexearch',
         'color_blindness': 0,
-        '_': 1758451913129,
+        '_': 1758562728355,
         'q': text
     }
 
